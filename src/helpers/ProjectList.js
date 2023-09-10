@@ -1,7 +1,7 @@
-import P1 from "../../../../src/assets/flask_news.png";
-import P2 from "../../../../src/assets/flask_weather.png";
-import P3 from "../../../../src/assets/flask_crypto.png";
-import P4 from "../../../../src/assets/flask_wiki.png";
+import P1 from "../assets/flask_news.png";
+import P2 from "../assets/flask_weather.png";
+import P3 from "../assets/flask_crypto.png";
+import P4 from "../assets/flask_wiki.png";
 
 
 
