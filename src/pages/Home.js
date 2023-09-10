@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-import personalpic from "../../../../src/assets/personalpic.jpg";
+import personalpic from "../assets/personalpic.jpg";
 
 
 function Home() {
